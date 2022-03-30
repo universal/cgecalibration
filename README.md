@@ -1,4 +1,8 @@
-# Calibration Example
+# A Dynamic Baseline Calibration Procedure for CGE models
+
+Supplementary code for the paper with the DOI: https://doi.org/10.1007/s10614-022-10248-4
+
+## Calibration Example
 
 Install R (4.1), Rtools4 (if on Windows), RStudio (optional) and GAMS (37, most older and newer versions should also be fine). Upon opening the R project in the R-subdirectory renv will ask to restore the packages used, enter:
 
