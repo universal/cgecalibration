@@ -1,0 +1,1 @@
+sectors <- c("AGR", "LMN", "HMN", "SRV")
