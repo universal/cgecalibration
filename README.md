@@ -1,6 +1,7 @@
 # A Dynamic Baseline Calibration Procedure for CGE models
 
-Supplementary code for the paper with the DOI: https://doi.org/10.1007/s10614-022-10248-4
+Supplementary code for the paper:
+Johannes Ziesmer & Ding Jin & Sneha Thube & Christian Henning. (2022). A Dynamic Baseline Calibration Procedure for CGE models. Computational Economics. https://doi.org/10.1007/s10614-022-10248-4
 
 ## Calibration Example
 
